@@ -1,2 +1,3 @@
 # AlgoritmoDoFogoDOM
- implementação simples do algoritmo do fogo do DOM
+Implementação simples do algoritmo do fogo do DOM 
+Você pode ver ele funcionando [clicando aqui!](https://fariasfarias.github.io/AlgoritmoDoFogoDOM/)
